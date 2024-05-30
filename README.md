@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bharatbarru
 - 👀 I’m interested in coding,designing,exploring various feilds
-- 🌱 I’m currently working on mobile app development
+- 🌱 I’m currently working on web development 
 - 💞️ I’m looking to collaborate on
 - 📫 How to reach me whatsapp:6281559286
 - email:bharat.barru57@gmail.com
